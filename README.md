@@ -1,5 +1,4 @@
 ## backend - myfinancas
-***projeto de criação de conteudo para o canal jovem programador*** 
 ## Vamos lá
 
 npm:
