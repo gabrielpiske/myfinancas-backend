@@ -1,5 +1,4 @@
 ## backend - myfinancas
-## Vamos lá
 
 npm:
 ```
